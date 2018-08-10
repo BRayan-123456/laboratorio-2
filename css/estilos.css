@@ -1,0 +1,79 @@
+h1 {
+	color: red;
+	text-align: left;
+}
+h2{
+	color: red;
+	background-color: green;
+}
+
+h3{
+	color: white;
+	background-color: green;
+}
+
+.bb1{
+	color: red;
+	font-weight: lighter;
+	font-size: 40px;
+}
+
+.jk1{
+	color: red;
+	background-color: yellow;
+
+}
+.a1{
+	color: white;
+	background-color: gray ;
+}
+
+.z1{
+	background-color: red;
+}
+
+.z2{
+	color: white;
+	background-color: black;
+}
+
+.z3{
+
+	background-color: gray;
+}
+
+.s1{
+	color: white;
+	background-color: green;
+}
+.z4{
+	background-color: green;
+}
+
+.c4{
+	color: white;
+	background-color: blue;
+}
+
+.m {
+	color: blue;
+	background-color: black;
+	font-size: 75px;
+}
+
+.nea{
+	color: white;
+	background-color: black;
+}
+
+.t {
+	color: red;
+	font-size: 75px;
+}
+
+.bo {
+	color: green;
+	font-size: 45px;
+	text-align: center;
+}
+
